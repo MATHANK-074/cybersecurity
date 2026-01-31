@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+cryptography
+python-jose
+pyotp
+qrcode
+python-dotenv
+authlib
+pillow
